@@ -71,6 +71,9 @@ make.bat
 Makefile
   Standard GNU makefile to build LaTeX document.
 
+task-scheduler/
+  Microsoft Task Scheduler
+
 template.pdf
   LaTeX Template with Examples compiled to portable document format file.
 
