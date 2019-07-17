@@ -83,6 +83,10 @@ template.tex
 TODO
   Items for virtualbox scripting
 
+vboxmanage/
+  Oracle's command-line interface
+  with VirtualBox
+
 virtualbox-scripting.pdf
   VirtualBox Scripting documentation
 
