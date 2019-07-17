@@ -10,3 +10,15 @@ Links
 =====
 How to run VBoxManage.exe? [closed]
 https://serverfault.com/questions/365423/how-to-run-vboxmanage-exe
+
+Run a Virtual Machine from Virtualbox without launching virtualbox
+"Use VBoxManage, in particular the startvm command."
+https://superuser.com/questions/73488/run-a-virtual-machine-from-virtualbox-without-launching-virtualbox
+
+startvm command
+http://www.virtualbox.org/manual/UserManual.html#vboxmanage-startvm
+
+VBoxManage
+http://www.virtualbox.org/manual/UserManual.html#vboxmanage
+
+
