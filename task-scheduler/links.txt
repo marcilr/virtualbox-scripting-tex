@@ -5,3 +5,27 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Microsoft Task Scheduler related links
 
+
+Links
+=====
+Configure to run a PowerShell Script into Task Scheduler - Microsoft
+ - Configure to run a PowerShell Script into Task Scheduler ... that
+reports in CSV the top 20 processes into a folder in Desktop, every
+hour.  Jul 23, 2017
+
+How to Automate PowerShell Scripts with Task Scheduler - Netwrix Blog
+Microsoft Windows Task Scheduler can help you automatically launch a
+program or PowerShell script at a certain time or when certain conditions 
+are met.  Jul 3, 2018
+https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/\
+
+How to: run PowerShell scripts from Task Scheduler
+Step 1: Open Task Scheduler. Open Task Scheduler and Create a new task.
+Step 2: Set Triggers.
+Step 3: Create your Action.
+Step 4: Set Argument.
+Step 5: Set the next argument.
+Step 6: Add parameters.
+Step 7: Full Argument.
+Step 8: Save the scheduled task.
+https://community.spiceworks.com/how_to/17736-run-powershell-scripts-from-task-scheduler
