@@ -77,5 +77,6 @@ template.pdf
 template.tex
   LaTeX Template with Examples
 
-TODO
-  Items for template
+virtualbox-scripting.tex
+  VirtualBox Scripting
+
