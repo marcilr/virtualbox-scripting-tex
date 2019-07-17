@@ -42,3 +42,13 @@ Capacity:       256000 MBytes
 Encryption:     disabled
 
 C:\Program Files\Oracle\VirtualBox>
+
+--serverfault.com/questions/365423/how-to-run-vboxmanage-exe
+
+
+Links
+=====
+How to run VBoxManage.exe? [closed]
+Here's an example script:
+$ VBoxManage list hdds
+https://serverfault.com/questions/365423/how-to-run-vboxmanage-exe
