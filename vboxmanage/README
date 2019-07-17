@@ -8,6 +8,9 @@ Filelist
 links.txt
   VBoxManage related links
 
+syntax/
+  Syntax for vboxmanage
+
 vboxmanage.txt
   VBoxManage.exe
   Oracle's command-line interface with VirtualBox 
