@@ -8,3 +8,37 @@ VBoxManage.exe
 
 Oracle's command-line interface with VirtualBox.
 
+
+C:\> cd "C:/Program Files/Oracle/VirtualBox"
+C:\Program Files\Oracle\VirtualBox> VBoxManage list hdds
+UUID:           666e8103-d094-4f05-8efd-d1f31a1f8f27
+Parent UUID:    base
+State:          created
+Type:           normal (base)
+Location:       C:\Users\remarcil\VirtualBox VMs\Debian 9.9.0 (Stretch) \
+20190507\Debian 9.9.0 (Stretch) 20190507.vdi
+Storage format: VDI
+Capacity:       256000 MBytes
+Encryption:     disabled
+
+UUID:           666e8103-d094-4f05-8efd-d1f31a1f8f27
+Parent UUID:    base
+State:          created
+Type:           normal (base)
+Location:       C:\Users\remarcil\VirtualBox VMs\Debian 9.9.0 (Stretch) \
+20190507\Debian 9.9.0 (Stretch) 20190507.vdi
+Storage format: VDI
+Capacity:       256000 MBytes
+Encryption:     disabled
+
+UUID:           666e8103-d094-4f05-8efd-d1f31a1f8f27
+Parent UUID:    base
+State:          created
+Type:           normal (base)
+Location:       C:\Users\remarcil\VirtualBox VMs\Debian 9.9.0 (Stretch) \
+20190507\Debian 9.9.0 (Stretch) 20190507.vdi
+Storage format: VDI
+Capacity:       256000 MBytes
+Encryption:     disabled
+
+C:\Program Files\Oracle\VirtualBox>
