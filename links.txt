@@ -8,6 +8,10 @@ VirtualBox Scripting related links
 
 Links
 =====
+Convert VDI to VMDK – VirtualBox to VMware
+by Scott Miller | 2014/06/24
+https://scottlinux.com/2011/06/24/convert-vdi-to-vmdk-virtualbox-to-vmware/
+
 Saving the state of a VirtualBox virtual machine from command line?
 "VBoxManage controlvm <vm> savestate will save the current state of
 the VM to disk..."
