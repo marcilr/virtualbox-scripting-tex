@@ -77,6 +77,8 @@ template.pdf
 template.tex
   LaTeX Template with Examples
 
+virtualbox-scripting.pdf
+  VirtualBox Scripting documentation
+
 virtualbox-scripting.tex
   VirtualBox Scripting
-
