@@ -28,4 +28,5 @@ Step 5: Set the next argument.
 Step 6: Add parameters.
 Step 7: Full Argument.
 Step 8: Save the scheduled task.
+NIce graphics and explanation.
 https://community.spiceworks.com/how_to/17736-run-powershell-scripts-from-task-scheduler
